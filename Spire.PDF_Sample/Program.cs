@@ -12,12 +12,12 @@ namespace Spire.PDF_Sample
 		{
 
 			//ConverUrlToPdfWithoutPlugin.Generate();
-			//Console.WriteLine("Finshed dude 1");
+			//Console.WriteLine("Finshed dude");
 
 
 
 			ConvertHtmlStringToPdfWithoutPlugin.Generate();
-			Console.WriteLine("Finshed dude 2");
+			Console.WriteLine("Finshed dude");
 		}
 	}
 }
