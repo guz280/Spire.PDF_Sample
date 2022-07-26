@@ -7,8 +7,8 @@ using System.Threading;
 
 namespace Spire.PDF_Sample
 {
-	internal static class ConvertHtmlStringToPdfWithoutPlugin
-	{
+	internal static class ConvertHtmlFromFileToPdfWithoutPlugin
+    {
         public static void Generate()
         {
             try

@@ -6,7 +6,7 @@ using System;
 
 namespace Spire.PDF_Sample
 {
-    internal static class ConverUrlToPdfWithoutPlugin
+    internal static class ConverHtmlFromUrlToPdfWithoutPlugin
     {
         public static void Generate()
         {

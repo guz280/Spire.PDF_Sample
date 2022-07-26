@@ -11,15 +11,15 @@ namespace Spire.PDF_Sample
 		static void Main(string[] args)
 		{
 
-			//ConverUrlToPdfWithoutPlugin.Generate();
-			//Console.WriteLine("Finshed dude");
+			ConvertHtmlFromFileToPdfWithoutPlugin.Generate();
+			Console.WriteLine("Finshed dude");
 
 
 
-			//ConvertHtmlStringToPdfWithoutPlugin.Generate();
-			//Console.WriteLine("Finshed dude");
+			ConverHtmlFromUrlToPdfWithoutPlugin.Generate();
+			Console.WriteLine("Finshed dude");
 
-			ConvertUrlToPdfQTPlugin.Generate();
+			ConvertHtmlToPDFWithQTPlugin.Generate();
 			Console.WriteLine("Finshed dude");
 		}
 	}

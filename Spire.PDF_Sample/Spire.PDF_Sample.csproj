@@ -48,9 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConvertHtmlStringToPdfWithoutPlugin.cs" />
-    <Compile Include="ConvertUrlToPdfQTPlugin.cs" />
-    <Compile Include="ConverUrlToPdfWithoutPlugin.cs" />
+    <Compile Include="ConvertHtmlFromFileToPdfWithoutPlugin.cs" />
+    <Compile Include="ConvertHtmlToPDFWithQTPlugin.cs" />
+    <Compile Include="ConverHtmlFromUrlToPdfWithoutPlugin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

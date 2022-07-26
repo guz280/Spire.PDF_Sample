@@ -7,8 +7,8 @@ using Spire.Pdf.Graphics;
 
 namespace Spire.PDF_Sample
 {
-	internal static class ConvertUrlToPdfQTPlugin
-	{
+	internal static class ConvertHtmlToPDFWithQTPlugin
+    {
 		public static void Generate()
 		{
             //Get the HTML string from a .html file
