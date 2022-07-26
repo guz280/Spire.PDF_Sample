@@ -16,7 +16,10 @@ namespace Spire.PDF_Sample
 
 
 
-			ConvertHtmlStringToPdfWithoutPlugin.Generate();
+			//ConvertHtmlStringToPdfWithoutPlugin.Generate();
+			//Console.WriteLine("Finshed dude");
+
+			ConvertUrlToPdfQTPlugin.Generate();
 			Console.WriteLine("Finshed dude");
 		}
 	}
